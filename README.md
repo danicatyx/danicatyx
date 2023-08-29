@@ -1,7 +1,10 @@
 ### Hi there! I'm Danica 👋
 🔭 I’m currently an undergraduate student at UC Berkeley, studying computer science
+
 🌱 I’m interested in learning more about AI, machine learning, data science, and design!
+
 📫 You can email me at: danicat@berkeley.edu 
+
 💬 Linkedin: linkedin.com/in/danica-t
 
 <!--
