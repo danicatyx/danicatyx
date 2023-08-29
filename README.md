@@ -1,4 +1,7 @@
 ### Hi there! I'm Danica 👋
+
+-----
+
 ``` pronouns = "she/her/hers" ```
 
 🔭 I’m currently an undergraduate student at UC Berkeley, studying CS + Economics
