@@ -10,6 +10,8 @@
 
 ⚡ Just updated lots of new and old projects into my github <3 hope you enjoy! :DD
 
+😄 My pfp is my cat Lemon, he's very chonky and is on a diet
+
 -----
 
 ### Connect with me:
