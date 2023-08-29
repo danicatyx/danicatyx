@@ -1,6 +1,6 @@
 ### Hi there! I'm Danica 👋
 
-💬 NOTE: Over 10+ personal projects implemented from little to no starter code, including machine learning, housing classification, word history, Build Your Own World, 61CPU, and Parallelism are in my private repo as required by my university. I am able to give access upon request for potential employers. 
+💬 NOTE: Over 10+ of my personal projects, implemented from little to no starter code, including machine learning, housing classification, scheme interpreter, autocomplete game, 2048, word history, Build Your Own World, the snake game, 61CPU, and Parallelism are all in my private repo as required by my university. I can give access upon request for potential employers, please email me at danicat@berkeley.edu
 
 -----
 
