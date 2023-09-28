@@ -19,9 +19,6 @@
 
 💬 Linkedin: linkedin.com/in/danica-t
 
-😄 P.S. My pfp is my cat Lemon, he's very chonky and is on a diet
-
-
 <!--
 **danicatyx/danicatyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
