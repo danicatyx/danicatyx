@@ -1,17 +1,5 @@
 ### Hi there! I'm Danica 👋
 
-💬 btw: Over 10+ of my personal projects, implemented from little to no starter code, including machine learning, housing classification, scheme interpreter, autocomplete game, 2048, word history, Build Your Own World, the snake game, 61CPU, and Parallelism are all in my private repo as required by my university. I can give access upon request for potential employers, please email me at danicat@berkeley.edu Alternatively, I have demos at http://danicat.com/
-
------
-
-``` pronouns = "she/her/hers" ```
-
-🔭 I’m currently an undergraduate student at UC Berkeley, studying CS + Economics
-
-🌱 I’m interested in learning more about AI, machine learning, data science, and design! 
-
-⚡ Just updated lots of new and old projects into my github <3 hope you enjoy! :DD
-
 -----
 
 ### Connect with me:
